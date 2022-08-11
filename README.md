@@ -2,7 +2,7 @@
 
 Prerequisite:  
 - APIC Toolkit  
-- Privileged user (administrator access)  
+- API Admin user access  
   
   
 1. Log into the APIM:  
