@@ -1,4 +1,4 @@
-# APIC-v10-Toolkit-Create-an-app
+## Create an app
 
 Prerequisite:  
 - APIC Toolkit
@@ -21,4 +21,11 @@ Note: the realm can be found by using the following apic command if you're not u
   "client_id": "clientid_here", 
   "client_secret": "client_secret_here"
 }
+```  
+
+3. Create the app in the desired catalog:  
 ```
+apic apps:create -s manager_endpoint_here -o provider_organization_here -c catalog_here --consumer-org consumer_organization_here app.json  
+```
+
+## Subscribing the app to Products
