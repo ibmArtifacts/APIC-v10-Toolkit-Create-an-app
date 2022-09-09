@@ -1,7 +1,7 @@
 ## Create an app
 
 Prerequisite:  
-- APIC Toolkit  
+- [APIC Toolkit](https://www.ibm.com/docs/en/api-connect/10.0.5.x_lts?topic=configuration-installing-toolkit) (download from [IBM Fix Central](https://www-945.ibm.com/support/fixcentral/)) 
 - API Admin user access  
   
   
